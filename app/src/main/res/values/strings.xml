@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">What is the derivative of y = x^2?</string>
+    <string name="question_2">What are the terrestrial planets?</string>
+    <string name="question_3">299,792,458 m/s is the speed of light.</string>
+    <string name="question_4">How many molecules are in a mole? (Express answer in scientific
+        notation if necessary)</string>
+    <string name="question_5">Who was the first president of the United States?</string>
+    <string name="question_6">What is the square root of 625?</string>
+</resources>
